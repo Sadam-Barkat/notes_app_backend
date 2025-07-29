@@ -283,4 +283,4 @@ If you encounter any issues or have questions:
 
 ---
 
-*This project was created as a full-stack notes application with modern web technologies.* 
+*This project was created as a full-stack notes application with modern web technologies.*
